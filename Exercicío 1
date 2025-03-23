@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <p>O <b>HTML</b> é a base da web, e ele nos permite criar páginas com muitos recursos interessantes!
+      Um dos elementos mais importantes é o <I>texto formatado</I>, como o uso de <u>sublinhado</u> para dar ênfase.
+      Além disso, podemos <s>destacar</s> partes importantes do conteúdo.
+Por exemplo, em uma fórmula científica, temos E = mc², onde a energia é igual à massa vezes a velocidade da luz ao quadrado.
+Em uma fórmula química, temos H2O, que representa a água.
+As vezes coisas simples como mostrar uma tag html como essa &ltp&gt podem ser complicadas ao escrever o código</p>
+    
+    </body>
+  </html> 
