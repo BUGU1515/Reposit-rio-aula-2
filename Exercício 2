@@ -50,4 +50,7 @@ Os motores de busca utilizam essa estrutura para entender o conteúdo da página
     <h2>Conclusão</h2>
 
 <p>
-  Aprender HTML é essencial para quem deseja desenvolver para a web. Usando corretamente os títulos e parágrafos, é possível criar páginas bem organizadas e acessíveis para todos os usuários.</p>
+  Aprender HTML é essencial para quem deseja desenvolver para a web. Usando corretamente os títulos e parágrafos, é possível criar páginas bem organizadas e acessíveis para todos os usuários.
+    </p>
+  <html>
+<body>
