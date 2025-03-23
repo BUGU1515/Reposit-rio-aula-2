@@ -1,1 +1,16 @@
+<header>
+    <h1>Introdução ao HTML</h1>
+</header>
 
+<section>
+    <p>O <b>HTML</b> é a base da web, e ele nos permite criar páginas com muitos recursos interessantes!</p>
+    <p>Um dos elementos mais importantes é o <i>texto formatado</i>, como o uso de <u>sublinhado</u> para dar ênfase.</p>
+    <p>Além disso, podemos <s>destacar</s> partes importantes do conteúdo.</p>
+    <p>Por exemplo, em uma fórmula científica, temos E = mc², onde a energia é igual à massa vezes a velocidade da luz ao quadrado.</p>
+    <p>Em uma fórmula química, temos H₂O, que representa a água.</p>
+    <p>Às vezes, coisas simples como mostrar uma tag HTML, como essa &lt;p&gt;, podem ser complicadas ao escrever o código.</p>
+</section>
+
+<footer>
+    <p>Este foi um breve exemplo sobre HTML e formatação de texto.</p>
+</footer>
