@@ -1,0 +1,53 @@
+<html>
+  <body>
+<h1>HTML: A Linguagem da Web</h1>
+
+<p>
+  A internet é composta por diversas tecnologias, e uma das principais é o HTML. Ele permite a estruturação das páginas web, organizando conteúdos de forma clara e acessível.
+    </p>
+
+    <h2>O que é HTML?</h2>
+
+<p>
+  HTML significa HyperText Markup Language, que traduzido significa "Linguagem de Marcação de Hipertexto". Ele define a estrutura básica de uma página da web, utilizando elementos chamados de "tags".
+    </p>
+
+    <h2>
+      Principais Elementos do HTML
+    </h2>
+    
+    <h3>1.Títulos e Subtítulos</h3>
+    
+<p>
+  Os títulos são definidos pelas tags &lth1&gt até &lth6&gt, onde &lth1&gt é o título mais importante e &lth6&gt o menos importante.
+    </p>
+
+    <h3>2.Parágrafos</h3>
+    
+    <p>
+      O texto comum de uma página é organizado em parágrafos usando a tag &ltp&gt.
+    </p>
+
+    <h3>3.Listas</h3>
+<p>
+  Listas são usadas para organizar informações de maneira clara e podem ser ordenadas (&ltol&gt) ou não ordenadas (&ltul&gt).
+    </p>
+
+    <h3>4.Links e Imagens</h3>
+<p>
+  O HTML permite adicionar links com &lta&gt e imagens com &ltimg&gt, tornando as páginas interativas e visuais.
+    </p>
+
+    <h2>
+      Importância da Hierarquia dos Títulos
+    </h2>
+
+<p>
+  A hierarquia dos títulos é fundamental para garantir a organização do conteúdo e melhorar a acessibilidade.
+Os motores de busca utilizam essa estrutura para entender o conteúdo da página.
+    </p>
+
+    <h2>Conclusão</h2>
+
+<p>
+  Aprender HTML é essencial para quem deseja desenvolver para a web. Usando corretamente os títulos e parágrafos, é possível criar páginas bem organizadas e acessíveis para todos os usuários.</p>
